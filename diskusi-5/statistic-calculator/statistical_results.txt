@@ -1,0 +1,48 @@
+=== STATISTIK DESKRIPTIF ===
+
+UKURAN PEMUSATAN:
+Mean (Rata-rata)    : 50.9041
+Median              : 50.6176
+Modus               : 26.9083
+
+UKURAN PENYEBARAN:
+Variance (Varians)  : 83.3233
+Std. Deviation      : 9.1282
+Range               : 44.9650
+IQR                 : 11.8567
+Minimum             : 26.9083
+Maximum             : 71.8733
+Coeff. of Variation : 17.93%
+
+KUARTIL:
+Q1 (25th percentile): 45.0615
+Q3 (75th percentile): 56.9182
+
+UKURAN BENTUK:
+Skewness            : 0.0605 (Symmetric)
+Kurtosis            : 2.8389 (Platykurtic)
+
+INFORMASI UMUM:
+Jumlah Data (n)     : 100
+Sum (Total)         : 5090.4059
+
+=== UJI NORMALITAS DATA ===
+
+Alpha level: 0.050
+
+SHAPIRO-WILK TEST:
+Statistic: 0.993878
+P-value  : 0.934929
+Result   : Normal
+
+ANDERSON-DARLING TEST:
+Statistic: 0.181996
+P-value  : 0.910379
+Result   : Normal
+
+KOLMOGOROV-SMIRNOV TEST:
+Statistic: 0.058097
+P-value  : 0.888438
+Result   : Normal
+
+95% Confidence Interval: [ 49.09283 , 52.71528 ]

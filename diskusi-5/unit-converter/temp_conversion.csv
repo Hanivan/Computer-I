@@ -1,0 +1,5 @@
+"Input","From","Result","To"
+0,"Celsius",32,"Fahrenheit"
+20,"Celsius",68,"Fahrenheit"
+37,"Celsius",98.6,"Fahrenheit"
+100,"Celsius",212,"Fahrenheit"

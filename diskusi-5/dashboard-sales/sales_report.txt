@@ -1,0 +1,18 @@
+SALES PERFORMANCE REPORT
+==================================================
+Generated on: 2025-05-25
+
+OVERALL SUMMARY:
+Total Revenue: $ 999,103
+Total Units Sold: 17,440
+Average Price per Unit: $ 56.15
+Average Monthly Revenue: $ 16,652
+
+TOP PERFORMING PRODUCTS:
+1. Product B - Revenue: $237,656 (23.8% share)
+2. Product C - Revenue: $221,404 (22.2% share)
+3. Product D - Revenue: $216,429 (21.7% share)
+
+MONTHLY PERFORMANCE:
+Best Month: Dec 2024
+Worst Month: Jan 2024
