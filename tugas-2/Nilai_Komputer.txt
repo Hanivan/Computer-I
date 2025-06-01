@@ -1,0 +1,10 @@
+NIM,Nama_Mahasiswa,UPBJJ,Nilai_Komputer_I
+202110,Adi,Malang,80
+202111,Aliya,Jakarta,96
+202112,Erna,Gorontalo,86
+202113,Eri,Bogor,76
+202114,Damar,Jakarta,65
+202115,Ida,Bogor,67
+202116,Jamal,Surabaya,75
+202117,Rahmah,Lampung,85
+202118,Sisi,Padang,90
