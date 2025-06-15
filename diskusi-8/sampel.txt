@@ -1,0 +1,4 @@
+Pemrograman R adalah bahasa pemrograman yang powerful
+R digunakan untuk analisis data dan statistik
+Dengan R kita dapat membuat visualisasi data yang menarik
+Pemrograman R memiliki banyak package yang berguna
